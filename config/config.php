@@ -5,7 +5,7 @@
  *  licenza: GPL3
  **/
 
-    define('BOT_TOKEN', '277656031:AAGHLFUoxxn2jvSlTuETgGRoN1qYk7MW8RU');
+    define('BOT_TOKEN', '');
     define('API_URL', 'https://api.telegram.org/bot'.BOT_TOKEN.'/');
     
     define('dir_doku', '../../www/wiki/');
