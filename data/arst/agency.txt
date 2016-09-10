@@ -1,0 +1,2 @@
+﻿agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+ARST SPA,ARST Spa - Trasporti Regionali Della Sardegna,http://arst.sardegna.it/,Europe/Rome,it,(39) 800 865 042,http://arst.sardegna.it/tariffe_e_abbonamenti/Biglietterie.html  

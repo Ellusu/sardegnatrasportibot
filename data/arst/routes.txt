@@ -1,0 +1,324 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+101,ARST SPA,101,CAGLIARI - VILLASIMIUS - COSTA REY - S.VITO,,3,http://www.arstspa.info/101.pdf,0000FF,ffffff
+102,ARST SPA,102,ESCALAPLANO - BALLAO - MURAVERA - COLOSTRAI,,3,http://www.arstspa.info/102.pdf,0000FF,ffffff
+103,ARST SPA,103,VILLAGRANDE - LANUSEI - TORTOLI - IERZU - TERTENIA - MURAVERA - CAGLIARI,,3,http://www.arstspa.info/103.pdf,0000FF,ffffff
+104,ARST SPA,104,SERVIZI COMUNE DI SESTU,,3,http://www.arstspa.info/104.pdf,0000FF,ffffff
+105,ARST SPA,105,SUELLI - SENORBI' - SILIUS - ARMUNGIA - VILLASALTO - S.VITO - MURAVERA - COLOSTRAI,,3,http://www.arstspa.info/105.pdf,0000FF,ffffff
+106,ARST SPA,106,BURCEI - S.GREGORIO - QUARTU S.ELENA - CAGLIARI,,3,http://www.arstspa.info/106.pdf,0000FF,ffffff
+107,ARST SPA,107,CAGLIARI - QUARTU - MARA - SINNAI - SETTIMO - CAGLIARI,,3,http://www.arstspa.info/107.pdf,0000FF,ffffff
+108,ARST SPA,108,PERDASDEFOGU - BALLAO - ARMUNGIA - SILIUS - S.ANDREA FRIUS - CAGLIARI,,3,http://www.arstspa.info/108.pdf,0000FF,ffffff
+109,ARST SPA,109,USSANA - SESTU - OSPEDALE BROTZU - CAGLIARI,,3,http://www.arstspa.info/109.pdf,0000FF,ffffff
+110,ARST SPA,110,USSANA - SESTU - CAGLIARI,,3,http://www.arstspa.info/110.pdf,0000FF,ffffff
+111,ARST SPA,111,CAGLIARI - S.SPERATE - MONASTIR,,3,http://www.arstspa.info/111.pdf,0000FF,ffffff
+112,ARST SPA,112,CAGLIARI - S.SPERATE - DECIMOMANNU,,3,http://www.arstspa.info/112.pdf,0000FF,ffffff
+113,ARST SPA,113,CAGLIARI - MONASTIR - USSANA,,3,http://www.arstspa.info/113.pdf,0000FF,ffffff
+114,ARST SPA,114,CAGLIARI - NURAMINIS - PIMENTEL - SENORBI' - GUASILA - VILLANOVAFRANCA,,3,http://www.arstspa.info/114.pdf,0000FF,ffffff
+116,ARST SPA,116,SESTU - SETTIMO - SINNAI - POETTO,,3,http://www.arstspa.info/116.pdf,0000FF,ffffff
+117,ARST SPA,117,MONSERRATO POLICLINICO-SESTU SAN GEMILIANO-MONSERRATO POLICLINICO,,3,http://www.arstspa.info/117.pdf,0000FF,ffffff
+118,ARST SPA,118,VILLAMAR - SERRENTI - MONASTIR - CAGLIARI,,3,http://www.arstspa.info/118.pdf,0000FF,ffffff
+119,ARST SPA,119,CAGLIARI - QUARTU - PITZ'E SERRA - MARA - SINNAI - SETTIMO - POLICLINICO UNIV. - CAGLIARI,,3,http://www.arstspa.info/119.pdf,0000FF,ffffff
+120,ARST SPA,120,TUILI - PAULI ARBAREI - SARDARA - SANLURI - CAGLIARI,,3,http://www.arstspa.info/120.pdf,0000FF,ffffff
+121,ARST SPA,121,ALES - SANLURI - CAGLIARI,,3,http://www.arstspa.info/121.pdf,0000FF,ffffff
+122,ARST SPA,122,ALES - MORGONGIORI - GONNOSTRAMATZA - MOGORO - SANLURI - CAGLIARI,,3,http://www.arstspa.info/122.pdf,0000FF,ffffff
+123,ARST SPA,123,VILLASOR - SAN SPERATE - SESTU - CITTA' UNIVERSITARIA - MONSERRATO - CAGLIARI,,3,http://www.arstspa.info/123.pdf,0000FF,ffffff
+124,ARST SPA,124,SENORBI' - SELEGAS - SANLURI - SAN GAVINO - GUSPINI,,3,http://www.arstspa.info/124.pdf,0000FF,ffffff
+125,ARST SPA,125,VALLERMOSA - UTA - CAGLIARI,,3,http://www.arstspa.info/125.pdf,0000FF,ffffff
+126,ARST SPA,126,MONASTIR - USSANA - SESTU - MONSERRATO - PIRRI - SELARGIUS,,3,http://www.arstspa.info/126.pdf,0000FF,ffffff
+127,ARST SPA,127,VILLAMAR - SEGARIU - SANLURI - CAGLIARI,,3,http://www.arstspa.info/127.pdf,0000FF,ffffff
+129,ARST SPA,129,CHIA BAIA - TUARREDDA - MALFATANO - CAMPIONNA - TRAMATZU - TEULADA - VIA LITORANEA,,3,http://www.arstspa.info/129.pdf,0000FF,ffffff
+130,ARST SPA,130,CAGLIARI - RESIDENZA DEL SOLE - CAPOTERRA,,3,http://www.arstspa.info/130.pdf,0000FF,ffffff
+133,ARST SPA,133,DOMUSDEMARIA - PULA - VILLA S.PIETRO - SARROCH - CAGLIARI IST. SCOLASTICI,,3,http://www.arstspa.info/133.pdf,0000FF,ffffff
+134,ARST SPA,134,CAGLIARI - PULA PARCO SCIENTIFICO E TECNOLOGICO,,3,http://www.arstspa.info/134.pdf,0000FF,ffffff
+160,ARST SPA,160,CAGLIARI - AEROPORTO ELMAS,,3,http://www.arstspa.info/160.pdf,0000FF,ffffff
+135,ARST SPA,135,CAGLIARI - VILLASIMIUS - COSTA REY - S.VITO,,3,http://www.arstspa.info/135.pdf,0000FF,ffffff
+139,ARST SPA,139,PULA - PORTO COLUMBU - CAGLIARI,,3,http://www.arstspa.info/139.pdf,0000FF,ffffff
+143,ARST SPA,143,PULA - VILLA S.PIETRO - SARROCH - CAPOTERRA,,3,http://www.arstspa.info/143.pdf,0000FF,ffffff
+170,ARST SPA,170,SINNAI - SETTIMO STAZIONE - SINNAI,,3,http://www.arstspa.info/170.pdf,0000FF,ffffff
+171,ARST SPA,171,SINNAI - SETTIMO STAZIONE - SINNAI,,3,http://www.arstspa.info/171.pdf,0000FF,ffffff
+205,ARST SPA,205,SANLURI - GUSPINI - ARBUS - FLUMINIMAGGIORE,,3,http://www.arstspa.info/205.pdf,0000FF,ffffff
+208,ARST SPA,208,VILLACIDRO - GUSPINI - ARBUS - MONTEVECCHIO - COSTA VERDE,,3,http://www.arstspa.info/208.pdf,0000FF,ffffff
+209,ARST SPA,209,VILLACIDRO - ARBUS - GUSPINI - ARBOREA - ORISTANO,,3,http://www.arstspa.info/209.pdf,0000FF,ffffff
+211,ARST SPA,211,PABILLONIS - ARBUS - GUSPINI - VILLACIDRO - DECIMOMANNU - CAGLIARI,,3,http://www.arstspa.info/211.pdf,0000FF,ffffff
+214,ARST SPA,214,MONTEVECCHIO - S.GAVINO - GUSPINI - CAGLIARI,,3,http://www.arstspa.info/214.pdf,0000FF,ffffff
+215,ARST SPA,215,GUSPINI - ARBUS - VILLACIDRO - SERRAMANNA - VILLASOR - Z.I. MACCHIAREDDU,,3,http://www.arstspa.info/215.pdf,0000FF,ffffff
+216,ARST SPA,216,S. GAVINO - SARDARA - SANLURI - SAMASSI - VILLASOR - Z.I. SARROCH,,3,http://www.arstspa.info/216.pdf,0000FF,ffffff
+219,ARST SPA,219,GUSPINI - PABILLONIS - SARDARA - SANLURI - CAGLIARI,,3,http://www.arstspa.info/219.pdf,0000FF,ffffff
+220,ARST SPA,220,ARBUS - GONNOSFANADIGA - VILLACIDRO - TURRIGHEDDA,,3,http://www.arstspa.info/220.pdf,0000FF,ffffff
+221,ARST SPA,221,GUSPINI - S.GAVINO - SANLURI - SAMASSI - VILLACIDRO - GUSPINI,,3,http://www.arstspa.info/221.pdf,0000FF,ffffff
+301,ARST SPA,301,BAUNEI - ARDALI - TRIEI - S.M.NAVARRESE - TORTOLI' - LANUSEI,,3,http://www.arstspa.info/301.pdf,0000FF,ffffff
+302,ARST SPA,302,NUORO - LANUSEI - BARISARDO - TORTOLI',,3,http://www.arstspa.info/302.pdf,0000FF,ffffff
+303,ARST SPA,303,ARBATAX - TORTOLI' - BAUNEI - DORGALI - NUORO,,3,http://www.arstspa.info/303.pdf,0000FF,ffffff
+305,ARST SPA,305,C.GIUSTIZIERI - URZULEI - TALANA - TORTOLI' - ARBATAX,,3,http://www.arstspa.info/305.pdf,0000FF,ffffff
+306,ARST SPA,306,LANUSEI - CARDEDU - TERTENIA - PERDASDEFOGU,,3,http://www.arstspa.info/306.pdf,0000FF,ffffff
+401,ARST SPA,401,GUSPINI - S. NICOLO' ARCIDANO - ARBOREA - ORISTANO,,3,http://www.arstspa.info/401.pdf,0000FF,ffffff
+402,ARST SPA,402,ABBASANTA GHILARZA AIDOMAGGIORE NORBELLO ABBASANTA,,3,http://www.arstspa.info/402.pdf,0000FF,ffffff
+403,ARST SPA,403,LACONI - ASUNI - RUINAS - VILLAURBANA - ORISTANO,,3,http://www.arstspa.info/403.pdf,0000FF,ffffff
+404,ARST SPA,404,LACONI - NURALLAO - USELLUS - ORISTANO,,3,http://www.arstspa.info/404.pdf,0000FF,ffffff
+405,ARST SPA,405,GENURI - GONNOSNO' - ALES - ORISTANO,,3,http://www.arstspa.info/405.pdf,0000FF,ffffff
+406,ARST SPA,406,ALES - PAU - ZEPPARA - GONNOSNO - CURCURIS - TUILI - SANLURI - VILLAMAR - VILLACIDRO,,3,http://www.arstspa.info/406.pdf,0000FF,ffffff
+407,ARST SPA,407,ALES - SIMALA - POMPU - SARDARA - CAGLIARI,,3,http://www.arstspa.info/407.pdf,0000FF,ffffff
+408,ARST SPA,408,ALES - VILLANOVAFORRU - SARDARA - S.GAVINO,,3,http://www.arstspa.info/408.pdf,0000FF,ffffff
+409,ARST SPA,409,ALES - PAU - USELLUS - VILLAURBANA - ORISTANO,,3,http://www.arstspa.info/409.pdf,0000FF,ffffff
+410,ARST SPA,410,ALES - GONNOSTRAMATZA - MOGORO - ORISTANO,,3,http://www.arstspa.info/410.pdf,0000FF,ffffff
+411,ARST SPA,411,PAU - VILLAVERDE - GONNOSCODINA - GONNOSTRAMATZA - MASULLAS - SIRIS - ORISTANO,,3,http://www.arstspa.info/411.pdf,0000FF,ffffff
+412,ARST SPA,412,LUNAMATRONA - PAULI ARBAREI - USSARAMANNA - BARESSA - ORISTANO,,3,http://www.arstspa.info/412.pdf,0000FF,ffffff
+413,ARST SPA,413,ABBASANTA - ARDAULI - NEONELI - ORISTANO,,3,http://www.arstspa.info/413.pdf,0000FF,ffffff
+414,ARST SPA,414,BUSACHI - ARDAULI - SORRADILE - ABBASANTA - ORISTANO,,3,http://www.arstspa.info/414.pdf,0000FF,ffffff
+415,ARST SPA,415,SAMUGHEO - FORDONGIANUS - ULA TIRSO - BUSACHI - ABBASANTA,,3,http://www.arstspa.info/415.pdf,0000FF,ffffff
+416,ARST SPA,416,LACONI - NURECI - ALES - MOGORO,,3,http://www.arstspa.info/416.pdf,0000FF,ffffff
+417,ARST SPA,417,LACONI - ASUNI - PAU - ALES - SIRIS - MASULLAS - POMPU - MOGORO,,3,http://www.arstspa.info/417.pdf,0000FF,ffffff
+418,ARST SPA,418,SU PALLOSU - MANDRIOLA - PUTZU IDU - S.VERO MILIS - ORISTANO,,3,http://www.arstspa.info/418.pdf,0000FF,ffffff
+419,ARST SPA,419,SENEGHE - MILIS - ORISTANO,,3,http://www.arstspa.info/419.pdf,0000FF,ffffff
+420,ARST SPA,420,ORISTANO - ZEDDIANI - NARBOLIA,,3,http://www.arstspa.info/420.pdf,0000FF,ffffff
+421,ARST SPA,421,SANTULUSSURGIU - NARBOLIA - CABRAS - ORISTANO,,3,http://www.arstspa.info/421.pdf,0000FF,ffffff
+422,ARST SPA,422,BONARCADO - SENEGHE - NARBOLIA - RIOLA - ORISTANO,,3,http://www.arstspa.info/422.pdf,0000FF,ffffff
+423,ARST SPA,423,ABBASANTA - S.LUSSURGIU - MILIS - ORISTANO,,3,http://www.arstspa.info/423.pdf,0000FF,ffffff
+424,ARST SPA,424,ORISTANO - S.VERO MILIS - MILIS - S.LUSSURGIU - ABBASANTA,,3,http://www.arstspa.info/424.pdf,0000FF,ffffff
+425,ARST SPA,425,ZERFALIU - SOLARUSSA - ORISTANO,,3,http://www.arstspa.info/425.pdf,0000FF,ffffff
+426,ARST SPA,426,RIOLA - NURACHI - ORISTANO Z.I.,,3,http://www.arstspa.info/426.pdf,0000FF,ffffff
+427,ARST SPA,427,PONTILE - TORREGRANDE - CABRAS - ORISTANO,,3,http://www.arstspa.info/427.pdf,0000FF,ffffff
+430,ARST SPA,430,ORISTANO - S.GIOVANNI SINIS - IS ARUTTAS,,3,http://www.arstspa.info/430.pdf,0000FF,ffffff
+433,ARST SPA,433,CAGLIARI - LACONI - NUORO,,3,http://www.arstspa.info/433.pdf,0000FF,ffffff
+434,ARST SPA,434,LACONI - ASUNI - SAMUGHEO - ORISTANO,,3,http://www.arstspa.info/434.pdf,0000FF,ffffff
+435,ARST SPA,435,ABBASANTA - GHILARZA - AIDOMAGGIORE - BORORE - DUALCHI - SEDILO - OTTANA - NUORO,,3,http://www.arstspa.info/435.pdf,0000FF,ffffff
+436,ARST SPA,436,LACONI - BARUMINI - VILLAMAR - CAGLIARI,,3,http://www.arstspa.info/436.pdf,0000FF,ffffff
+437,ARST SPA,437,ALES - GENURI - GONNOSNO' - USELLUS - ORISTANO,,3,http://www.arstspa.info/437.pdf,0000FF,ffffff
+438,ARST SPA,438,LACONI - GADONI - ARITZO - BELVI' - ATZARA - SAMUGHEO - ORISTANO,,3,http://www.arstspa.info/438.pdf,0000FF,ffffff
+439,ARST SPA,439,SORRADILE - ARDAULI - BUSACHI - PAULILATINO - TORREGRANDE,,3,http://www.arstspa.info/439.pdf,0000FF,ffffff
+442,ARST SPA,442,LACONI - ASUNI - RUINAS - V.URBANA - SIMAXIS - TORREGRANDE,,3,http://www.arstspa.info/442.pdf,0000FF,ffffff
+443,ARST SPA,443,BARESSA - SETZU - ALES - TERRALBA - MARINA DI ARBOREA,,3,http://www.arstspa.info/443.pdf,0000FF,ffffff
+444,ARST SPA,444,ORISTANO - ARBOREA - SANLURI - CAGLIARI,,3,http://www.arstspa.info/444.pdf,0000FF,ffffff
+445,ARST SPA,445,ZERFALIU - SIMAXIS - TORREGRANDE,,3,http://www.arstspa.info/445.pdf,0000FF,ffffff
+446,ARST SPA,446,PAULI ARBAREI - LUNAMATRONA - V.FORRU - COLLINAS - SARDARA - ORISTANO,,3,http://www.arstspa.info/446.pdf,0000FF,ffffff
+497,ARST SPA,497,AUTOLINEA OCCASIONALE: ABBASANTA - PAULILATINO - BONARCADO SANTUARIO,,3,http://www.arstspa.info/497.pdf,0000FF,ffffff
+501,ARST SPA,501,SORGONO - TONARA - ARITZO - LACONI - SANLURI - CAGLIARI,,3,http://www.arstspa.info/501.pdf,0000FF,ffffff
+502,ARST SPA,502,FONNI - DESULO - SORGONO - ABBASANTA,,3,http://www.arstspa.info/502.pdf,0000FF,ffffff
+504,ARST SPA,504,MEANA SARDO - SORGONO - OLZAI - OTTANAZ.I. ENICHEM - NUORO,,3,http://www.arstspa.info/504.pdf,0000FF,ffffff
+505,ARST SPA,505,SORGONO - LODINE - GAVOI - OLLOLAI - NUORO,,3,http://www.arstspa.info/505.pdf,0000FF,ffffff
+506,ARST SPA,506,BELVI' - DESULO - NUORO,,3,http://www.arstspa.info/506.pdf,0000FF,ffffff
+509,ARST SPA,509,ORGOSOLO - BUDURRAI - NUORO VIA MONTALE,,3,http://www.arstspa.info/509.pdf,0000FF,ffffff
+511,ARST SPA,511,BUDDUSO' - OSIDDA - LULA - BITTI - NUORO,,3,http://www.arstspa.info/511.pdf,0000FF,ffffff
+512,ARST SPA,512,FONNI - SORGONO - NEONELI - ORISTANO,,3,http://www.arstspa.info/512.pdf,0000FF,ffffff
+514,ARST SPA,514,OLBIA I.B. - SINISCOLA - OROSEI - NUORO,,3,http://www.arstspa.info/514.pdf,0000FF,ffffff
+520,ARST SPA,520,CALA GONONE - DORGALI - OLIENA - NUORO,,3,http://www.arstspa.info/520.pdf,0000FF,ffffff
+521,ARST SPA,521,DORGALI - GALTELLI - OROSEI - SINISCOLA,,3,http://www.arstspa.info/521.pdf,0000FF,ffffff
+525,ARST SPA,525,FONNI - GAVOI - OLLOLAI - SARULE - ORANI - OTTANA Z.I. ENICHEM,,3,http://www.arstspa.info/525.pdf,0000FF,ffffff
+529,ARST SPA,529,NUORO - LOCULI - IRGOLI - ONIFAI - OROSEI - GALTELLI' - NUORO,,3,http://www.arstspa.info/529.pdf,0000FF,ffffff
+530,ARST SPA,530,SORGONO - ORTUERI - ABBASANTA - ORISTANO,,3,http://www.arstspa.info/530.pdf,0000FF,ffffff
+537,ARST SPA,537,TONARA - SORGONO - SAMUGHEO - ORISTANO,,3,http://www.arstspa.info/537.pdf,0000FF,ffffff
+540,ARST SPA,540,LODE' - SINISCOLA - LA CALETTA,,3,http://www.arstspa.info/540.pdf,0000FF,ffffff
+544,ARST SPA,544,OTTANA - BORORE - BONORVA - SASSARI,,3,http://www.arstspa.info/544.pdf,0000FF,ffffff
+601,ARST SPA,601,S.TERESA G. - PALAU - ARZACHENA - S.PANTALEO - OLBIA I.B. - AEROPORTO,,3,http://www.arstspa.info/601.pdf,0000FF,ffffff
+602,ARST SPA,602,TEMPIO - CALANGIANUS - OLBIA I.B.,,3,http://www.arstspa.info/602.pdf,0000FF,ffffff
+604,ARST SPA,604,ARZACHENA - PORTO CERVO - BAIA SARDINIA - OLBIA,,3,http://www.arstspa.info/604.pdf,0000FF,ffffff
+609,ARST SPA,609,OLBIA - S.TEODORO - BUDONI - SINISCOLA,,3,http://www.arstspa.info/609.pdf,0000FF,ffffff
+610,ARST SPA,610,OLBIA - G.ARANCI,,3,http://www.arstspa.info/610.pdf,0000FF,ffffff
+701,ARST SPA,701,BOSA - POZZOMAGGIORE - SASSARI,,3,http://www.arstspa.info/701.pdf,0000FF,ffffff
+702,ARST SPA,702,PADRIA - POZZOMAGGIORE - BONORVA - GIAVE - THIESI - SASSARI,,3,http://www.arstspa.info/702.pdf,0000FF,ffffff
+703,ARST SPA,703,BOSA - CUGLIERI - ORISTANO,,3,http://www.arstspa.info/703.pdf,0000FF,ffffff
+704,ARST SPA,704,POZZOMAGGIORE - PADRIA - ROMANA - ALGHERO,,3,http://www.arstspa.info/704.pdf,0000FF,ffffff
+707,ARST SPA,707,ITTIRI - URI - USINI - SASSARI - SERVIZIO SCOLASTICO,,3,http://www.arstspa.info/707.pdf,0000FF,ffffff
+708,ARST SPA,708,SASSARI - ITTIRI - SASSARI,,3,http://www.arstspa.info/708.pdf,0000FF,ffffff
+709,ARST SPA,709,SASSARI - OSSI - TISSI - SASSARI,,3,http://www.arstspa.info/709.pdf,0000FF,ffffff
+710,ARST SPA,710,BOSA - VILLANOVA MONTELEONE - PUTIFIGARI - SASSARI,,3,http://www.arstspa.info/710.pdf,0000FF,ffffff
+711,ARST SPA,711,OZIERI - SINISCOLA - OLBIA - OZIERI,,3,http://www.arstspa.info/711.pdf,0000FF,ffffff
+712,ARST SPA,712,SASSARI - FLORINAS - PLOAGHE - CHIARAMONTI - MARTIS,,3,http://www.arstspa.info/712.pdf,0000FF,ffffff
+713,ARST SPA,713,ALGHERO - URI - ITTIRI - THIESI - MACOMER,,3,http://www.arstspa.info/713.pdf,0000FF,ffffff
+714,ARST SPA,714,ROMANA - VILLANOVA M. - ALGHERO - FERTILIA - S.M. LA PALMA - P. TORRES,,3,http://www.arstspa.info/714.pdf,0000FF,ffffff
+719,ARST SPA,719,SASSARI - PORTOTORRES,,3,http://www.arstspa.info/719.pdf,0000FF,ffffff
+721,ARST SPA,721,BULZI - CASTELSARDO - SASSARI,,3,http://www.arstspa.info/721.pdf,0000FF,ffffff
+722,ARST SPA,722,SASSARI - SENNORI - SASSARI,,3,http://www.arstspa.info/722.pdf,0000FF,ffffff
+724,ARST SPA,724,CASTELSARDO - SASSARI,,3,http://www.arstspa.info/724.pdf,0000FF,ffffff
+725,ARST SPA,725,SASSARI - OSILO,,3,http://www.arstspa.info/725.pdf,0000FF,ffffff
+726,ARST SPA,726,LINEA SASSARI-NULVI,,3,http://www.arstspa.info/726.pdf,0000FF,ffffff 
+727,ARST SPA,727,LA PELOSA - STINTINO - P.TORRES - SASSARI,,3,http://www.arstspa.info/727.pdf,0000FF,ffffff
+728,ARST SPA,728,SASSARI - CASTELSARDO - BADESI - S.TERESA DI GALLURA,,3,http://www.arstspa.info/728.pdf,0000FF,ffffff
+730,ARST SPA,730,POZZO S.NICOLA - PALMADULA - CANAGLIA - P.TORRES - SASSARI,,3,http://www.arstspa.info/730.pdf,0000FF,ffffff
+731,ARST SPA,731,BONO - BURGOS - ITTIREDDU - SASSARI,,3,http://www.arstspa.info/731.pdf,0000FF,ffffff
+732,ARST SPA,732,ARGENTIERA - CAMPANEDDA - SASSARI,,3,http://www.arstspa.info/732.pdf,0000FF,ffffff
+739,ARST SPA,739,COSSOINE - BONORVA - BOSA MARINA,,3,http://www.arstspa.info/739.pdf,0000FF,ffffff
+740,ARST SPA,740,OSSI - TISSI - USINI - URI - ALGHERO LIDO,,3,http://www.arstspa.info/740.pdf,0000FF,ffffff
+747,ARST SPA,747,BONO - BOTTIDDA - OTTANA - GHILARZA - CAGLIARI,,3,http://www.arstspa.info/747.pdf,0000FF,ffffff
+749,ARST SPA,749,BULTEI - ANELA - BONO - BOTTIDDA - LULA - LA CALETTA - S. TEODORO,,3,http://www.arstspa.info/749.pdf,0000FF,ffffff
+750,ARST SPA,750,MORES - THIESI - ITTIRI - ALGHERO,,3,http://www.arstspa.info/750.pdf,0000FF,ffffff
+751,ARST SPA,751,NULVI - OSILO - SASSARI LATTE DOLCE - Z.I.PORTO TORRES,,3,http://www.arstspa.info/751.pdf,0000FF,ffffff
+753,ARST SPA,753,MULTEDU - CASTELSARDO - SENNORI - SORSO - PORTOTORRES - Z.I.PORTOTORRES,,3,http://www.arstspa.info/753.pdf,0000FF,ffffff
+754,ARST SPA,754,PLOAGHE - CODRONGIANOS - OSSI - TISSI - SASSARI VIA TURATI - Z.I.P.TORRES,,3,http://www.arstspa.info/754.pdf,0000FF,ffffff
+757,ARST SPA,757,USINI - ITTIRI - URI - OLMEDO - Z.I.PORTO TORRES,,3,http://www.arstspa.info/757.pdf,0000FF,ffffff
+760,ARST SPA,760,SASSARI - AEROPORTO FERTILIA,,3,http://www.arstspa.info/760.pdf,0000FF,ffffff
+761,ARST SPA,761,SASSARI - MORES - OZIERI,,3,http://www.arstspa.info/761.pdf,0000FF,ffffff
+801,ARST SPA,801,CALASETTA - CARBONIA - IGLESIAS - CAGLIARI,,3,http://www.arstspa.info/801.pdf,0000FF,ffffff
+802,ARST SPA,802,CALASETTA - CARBONIA - V.MASSARGIA - CAGLIARI,,3,http://www.arstspa.info/802.pdf,0000FF,ffffff
+803,ARST SPA,803,PORTOSCUSO - CAGLIARI,,3,http://www.arstspa.info/803.pdf,0000FF,ffffff
+804,ARST SPA,804,BUGGERRU - IGLESIAS,,3,http://www.arstspa.info/804.pdf,0000FF,ffffff
+805,ARST SPA,805,IGLESIAS - VALLERMOSA,,3,http://www.arstspa.info/805.pdf,0000FF,ffffff
+806,ARST SPA,806,CARBONIA - IGLESIAS,,3,http://www.arstspa.info/806.pdf,0000FF,ffffff
+807,ARST SPA,807,CARBONIA - BARBUSI - CORONGIU - IGLESIAS,,3,http://www.arstspa.info/807.pdf,0000FF,ffffff
+808,ARST SPA,808,MASUA - IGLESIAS - DOMUSNOVAS,,3,http://www.arstspa.info/808.pdf,0000FF,ffffff
+809,ARST SPA,809,IGLESIAS - DOMUSNOVAS - MUSEI - VILLAMASSARGIA,,3,http://www.arstspa.info/809.pdf,0000FF,ffffff
+810,ARST SPA,810,IGLESIAS - DOMUSNOVAS - MUSEI - VILLAMASSARGIA,,3,http://www.arstspa.info/810.pdf,0000FF,ffffff
+811,ARST SPA,811,CAGLIARI - NUXIS - GIBA - CARBONIA,,3,http://www.arstspa.info/811.pdf,0000FF,ffffff
+812,ARST SPA,812,NUXIS - S.ANTIOCO,,3,http://www.arstspa.info/812.pdf,0000FF,ffffff
+813,ARST SPA,813,TERRESOLI - S.ANTIOCO,,3,http://www.arstspa.info/813.pdf,0000FF,ffffff
+814,ARST SPA,814,TERRESOLI - CARBONIA,,3,http://www.arstspa.info/814.pdf,0000FF,ffffff
+815,ARST SPA,815,TERRESOLI - SANTADI - NUXIS - NARCAO - CARBONIA,,3,http://www.arstspa.info/815.pdf,0000FF,ffffff
+816,ARST SPA,816,TEULADA - CARBONIA,,3,http://www.arstspa.info/816.pdf,0000FF,ffffff
+817,ARST SPA,817,TEULADA - S.ANTIOCO,,3,http://www.arstspa.info/817.pdf,0000FF,ffffff
+818,ARST SPA,818,GIBA - S.GIOVANNI S. - CARBONIA - PORTOSCUSO,,3,http://www.arstspa.info/818.pdf,0000FF,ffffff
+819,ARST SPA,819,TEULADA - ACQUACADDA,,3,http://www.arstspa.info/819.pdf,0000FF,ffffff
+820,ARST SPA,820,PORTOPINO - GIBA - CARBONIA - IGLESIAS,,3,http://www.arstspa.info/820.pdf,0000FF,ffffff
+821,ARST SPA,821,PORTOSCUSO - CARBONIA,,3,http://www.arstspa.info/821.pdf,0000FF,ffffff
+822,ARST SPA,822,S.ANTIOCO - S.GIOVANNI SUERGIU - PORTOSCUSO,,3,http://www.arstspa.info/822.pdf,0000FF,ffffff
+823,ARST SPA,823,BRUNCU TEULA - PARINGIANU - PORTOSCUSO,,3,http://www.arstspa.info/823.pdf,0000FF,ffffff
+824,ARST SPA,824,CARLOFORTE,,3,http://www.arstspa.info/824.pdf,0000FF,ffffff
+825,ARST SPA,825,CARLOFORTE ESTIV,,3,http://www.arstspa.info/825.pdf,0000FF,ffffff
+826,ARST SPA,826,GIBA - CAGLIARI,,3,http://www.arstspa.info/826.pdf,0000FF,ffffff
+827,ARST SPA,827,CALASETTA - IGLESIAS,,3,http://www.arstspa.info/827.pdf,0000FF,ffffff
+828,ARST SPA,828,SILIQUA - S.GIOVANNI SUERGIU - CALASETTA,,3,http://www.arstspa.info/828.pdf,0000FF,ffffff
+829,ARST SPA,Linea 3,URBANO IGLESIAS  3,,3,http://www.arstspa.info/829.pdf,007A00,ffffff
+830,ARST SPA,Linea 1,URBANO IGLESIAS  1,,3,http://www.arstspa.info/830.pdf,FF0000,ffffff
+831,ARST SPA,Linea 2,URBANO IGLESIAS  2,,3,http://www.arstspa.info/831.pdf,0033CC,ffffff
+832,ARST SPA,Linea A,URBANO CARBONIA  A,,3,http://www.arstspa.info/832.pdf,FF0000,ffffff
+833,ARST SPA,Linea B,URBANO CARBONIA  B,,3,http://www.arstspa.info/833.pdf,0033CC,ffffff
+835,ARST SPA,835,PORTOVESME - BARBUSI - DOMUSNOVAS,,3,http://www.arstspa.info/835.pdf,0000FF,ffffff
+836,ARST SPA,836,DOMUSNOVAS - BARBUSI - PORTOVESME,,3,http://www.arstspa.info/836.pdf,0000FF,ffffff
+837,ARST SPA,837,PORTOVESME - IGLESIAS,,3,http://www.arstspa.info/837.pdf,0000FF,ffffff
+838,ARST SPA,838,PORTOVESME - IGLESIAS,,3,http://www.arstspa.info/838.pdf,0000FF,ffffff
+839,ARST SPA,839,PORTOSCUSO - IGLESIAS,,3,http://www.arstspa.info/839.pdf,0000FF,ffffff
+840,ARST SPA,840,MASUA - DOMUSNOVAS,,3,http://www.arstspa.info/840.pdf,0000FF,ffffff
+841,ARST SPA,841,IGLESIAS - GUSPINI,,3,http://www.arstspa.info/841.pdf,0000FF,ffffff
+842,ARST SPA,842,PORTOSCUSO - CARBONIA,,3,http://www.arstspa.info/842.pdf,0000FF,ffffff
+843,ARST SPA,843,CALASETTA - MATZACCARA - PORTOVESME,,3,http://www.arstspa.info/843.pdf,0000FF,ffffff
+844,ARST SPA,844,CALASETTA - PARINGIANU - PORTOVESME,,3,http://www.arstspa.info/844.pdf,0000FF,ffffff
+845,ARST SPA,845,PORTOSCUSO - PORTOVESME,,3,http://www.arstspa.info/845.pdf,0000FF,ffffff
+846,ARST SPA,846,PORTOVESME - CARBONIA,,3,http://www.arstspa.info/846.pdf,0000FF,ffffff
+847,ARST SPA,847,PORTOSCUSO - NURAXI FIGUS - CAMPO PISANO,,3,http://www.arstspa.info/847.pdf,0000FF,ffffff
+848,ARST SPA,848,TERRESOLI - GIBA - PORTOVESME,,3,http://www.arstspa.info/848.pdf,0000FF,ffffff
+849,ARST SPA,849,ACQUACALLENTI - CARBONIA - PORTOVESME,,3,http://www.arstspa.info/849.pdf,0000FF,ffffff
+850,ARST SPA,850,S. ANNA ARRESI - GIBA - PORTOVESME,,3,http://www.arstspa.info/850.pdf,0000FF,ffffff
+851,ARST SPA,851,SANTADI - MASUA,,3,http://www.arstspa.info/851.pdf,0000FF,ffffff
+852,ARST SPA,852,PORTOVESME - CAGLIARI,,3,http://www.arstspa.info/852.pdf,0000FF,ffffff
+853,ARST SPA,853,FUNTANAMARE - IGLESIAS,,3,http://www.arstspa.info/853.pdf,0000FF,ffffff
+854,ARST SPA,854,BACU ABIS - GONNESA - PLAGE MESU,,3,http://www.arstspa.info/854.pdf,0000FF,ffffff
+855,ARST SPA,855,IGLESIAS - PLAGE MESU,,3,http://www.arstspa.info/855.pdf,0000FF,ffffff
+856,ARST SPA,856,DOMUSNOVAS - PLAGE MESU,,3,http://www.arstspa.info/856.pdf,0000FF,ffffff
+857,ARST SPA,857,PORTIXEDDU - FLUMINIMAGGIORE,,3,http://www.arstspa.info/857.pdf,0000FF,ffffff
+858,ARST SPA,858,PORTOPAGLIETTO - CARBONIA,,3,http://www.arstspa.info/858.pdf,0000FF,ffffff
+859,ARST SPA,859,PORTOPINO - CARBONIA,,3,http://www.arstspa.info/859.pdf,0000FF,ffffff
+860,ARST SPA,860,RIO MURTAS - NUXIS - SANTADI - PORTOPINO,,3,http://www.arstspa.info/860.pdf,0000FF,ffffff
+861,ARST SPA,861,S.ANTIOCO - MALADROXIA - COA QUADDU,,3,http://www.arstspa.info/861.pdf,0000FF,ffffff
+862,ARST SPA,862,PORTOPINO - TERRASEO,,3,http://www.arstspa.info/862.pdf,0000FF,ffffff
+4001,ARST SPA,Linea 1,CIRCOLARE  DESTRA ,,3,http://www.arstspa.info/L1.pdf,007A00,ffffff
+4002,ARST SPA,Linea 2,CIRCOLARE SINISTRA ,,3,http://www.arstspa.info/L2.pdf,E83618,ffffff
+4003,ARST SPA,Linea 3,TORANGIUS  -  STAZIONE FS ,,3,http://www.arstspa.info/L3.pdf,5F5F5F,ffffff
+4004,ARST SPA,Linea 4,ORISTANO  -  SILI  -  ORISTANO ,,3,http://www.arstspa.info/L4.pdf,FFCC00,000000
+4005,ARST SPA,Linea 5,ORISTANO  -  NURAXINIEDDU  -  MASSAMA ,,3,http://www.arstspa.info/L5.pdf,F78C3B,ffffff
+4006,ARST SPA,Linea 6,ORISTANO - RIMEDIO - DONIGALA - ORISTANO ,,3,http://www.arstspa.info/L6.pdf,F30D85,ffffff
+4007,ARST SPA,Linea 7,ORISTANO - TIRIA - ORISTANO  ,,3,http://www.arstspa.info/L7.pdf,993366,ffffff
+4008,ARST SPA,Linea 8,ORISTANO  - TORREGRANDE ,,3,http://www.arstspa.info/L8.pdf,3399FF,ffffff
+4009,ARST SPA,Linea 9,ORISTANO  - TORREGRANDE ,,3,http://www.arstspa.info/L9.pdf,0033CC,ffffff
+4010,ARST SPA,Linea 10,ORISTANO  - TORREGRANDE ,,3,http://www.arstspa.info/L10.pdf,009999,ffffff
+4011,ARST SPA,Linea 11,ORISTANO  - TORREGRANDE ,,3,http://www.arstspa.info/L11.pdf,000000,ffffff
+4012,ARST SPA,Linea 12,FRAZIONI  - ORISTANO ,,3,http://www.arstspa.info/L12.pdf,993300,ffffff
+9001,ARST SPA,9001,ISILI STAZIONE - VILLACIDRO,,3,http://www.arstspa.info/9001.pdf,0000FF,ffffff
+9003,ARST SPA,9003,CAGLIARI - MANDAS - ISILI,,3,http://www.arstspa.info/9003.pdf,0000FF,ffffff
+9004,ARST SPA,9004,GAIRO - JERZU,,3,http://www.arstspa.info/9004.pdf,0000FF,ffffff
+9006,ARST SPA,9006,SEUI - MANDAS,,3,http://www.arstspa.info/9006.pdf,0000FF,ffffff
+9108,ARST SPA,9108,PERDASDEFOGU - TERTENIA - MUSEDDU - CARDEDU - LANUSEI STAZ,,3,http://www.arstspa.info/9128.pdf,0000FF,ffffff
+9109,ARST SPA,9109,ESTERZILI - ESCALAPLANO - ISILI,,3,http://www.arstspa.info/9119.pdf,0000FF,ffffff
+9110,ARST SPA,9110,ORTUERI - CANTONIERA ORTUABIS,,3,http://www.arstspa.info/9110.pdf,0000FF,ffffff
+9111,ARST SPA,9111,ARITZO - STAZIONE GAIRO,,3,http://www.arstspa.info/9111.pdf,0000FF,ffffff
+9112,ARST SPA,9112,CAGLIARI - GAIRO - LANUSEI,,3,http://www.arstspa.info/9112.pdf,0000FF,ffffff
+9113,ARST SPA,9113,CAGLIARI - SORGONO - OVODDA,,3,http://www.arstspa.info/9113.pdf,0000FF,ffffff
+9114,ARST SPA,9114,MANDAS STAZIONE - DONIGALA - CAGLIARI,,3,http://www.arstspa.info/9114.pdf,0000FF,ffffff
+9115,ARST SPA,9115,GONI - SENORBI',,3,http://www.arstspa.info/9115.pdf,0000FF,ffffff
+9116,ARST SPA,9116,CAGLIARI - SENORBI' - SAN GAVINO,,3,http://www.arstspa.info/9116.pdf,0000FF,ffffff
+9118,ARST SPA,9118,CAGLIARI - S.ANDREA FRIUS - SAN BASILIO - SENORBI',,3,http://www.arstspa.info/9118.pdf,0000FF,ffffff
+9119,ARST SPA,9119,ESTERZILI - ESCALAPLANO - ISILI,,3,http://www.arstspa.info/9119.pdf,0000FF,ffffff
+9120,ARST SPA,9120,MARACALAGONIS - SINNAI - SETTIMO - CAGLIARI,,3,http://www.arstspa.info/9120.pdf,0000FF,ffffff
+9121,ARST SPA,9121,SANTA SOFIA - LACONI - ISILI STAZIONE,,3,http://www.arstspa.info/9121.pdf,0000FF,ffffff
+9122,ARST SPA,9122,VILLACIDRO - SANLURI - LUNAMATRONA,,3,http://www.arstspa.info/9122.pdf,0000FF,ffffff
+9124,ARST SPA,9124,SARDARA - VILLACIDRO,,3,http://www.arstspa.info/9124.pdf,0000FF,ffffff
+9125,ARST SPA,9125,SANLURI - PAULI ARBAREI - USSARAMANNA - GONNOSNO',,3,http://www.arstspa.info/9125.pdf,0000FF,ffffff
+9126,ARST SPA,9126,SENORBI' - BARRALI - POETTO,,3,http://www.arstspa.info/9126.pdf,0000FF,ffffff
+9127,ARST SPA,9127,NUORO - SORGONO,,3,http://www.arstspa.info/9127.pdf,0000FF,ffffff
+9128,ARST SPA,9128,CARDEDU - TORRE DI BARI' - LANUSEI STAZIONE,,3,http://www.arstspa.info/9128.pdf,0000FF,ffffff
+9129,ARST SPA,9129,SEULO-ISILI,,3,http://www.arstspa.info/9119.pdf,0000FF,ffffff
+9130,ARST SPA,9130,LANUSEI - ARBATAX,,3,http://www.arstspa.info/9130.pdf,0000FF,ffffff
+9131,ARST SPA,9131,LANUSEI - ARZANA,,3,http://www.arstspa.info/9131.pdf,0000FF,ffffff
+9132,ARST SPA,9132,LANUSEI - VILLANOVA STRISAILI - VILLAGRANDE,,3,http://www.arstspa.info/9132.pdf,0000FF,ffffff
+9133,ARST SPA,9133,VILLAGRANDE - TORLTOLI' - ORRI',,3,http://www.arstspa.info/9133.pdf,0000FF,ffffff
+9134,ARST SPA,9134,CARDEDU - TORRE DI BARI' - LANUSEI STAZIONE,,3,http://www.arstspa.info/9128.pdf,0000FF,ffffff
+9135,ARST SPA,9135,TERTENIA - BARISARDO - TORTOLI' - ARBATAX,,3,http://www.arstspa.info/9135.pdf,0000FF,ffffff
+9136,ARST SPA,9136,JERZU - PELAU - GENN'E MASONI,,3,http://www.arstspa.info/9136.pdf,0000FF,ffffff
+9137,ARST SPA,9137,ESCALAPLANO - PERDASDEFOGU,,3,http://www.arstspa.info/9137.pdf,0000FF,ffffff
+9138,ARST SPA,9138,ORROLI - NUORO,,3,http://www.arstspa.info/9138.pdf,0000FF,ffffff
+9139,ARST SPA,9139,NURECI - ISILI STAZIONE,,3,http://www.arstspa.info/9139.pdf,0000FF,ffffff
+9140,ARST SPA,9140,TERTENIA - BARISARDO - TORTOLI' - ARBATAX,,3,http://www.arstspa.info/9135.pdf,0000FF,ffffff
+9142,ARST SPA,9142,SORGONO - ATZARA - ARITZO,,3,http://www.arstspa.info/9142.pdf,0000FF,ffffff
+9143,ARST SPA,9143,ISILI - MANDAS - GESICO - CAGLIARI,,3,http://www.arstspa.info/9143.pdf,0000FF,ffffff
+9144,ARST SPA,9144,SORGONO - TORREGRANDE,,3,http://www.arstspa.info/9144.pdf,0000FF,ffffff
+9147,ARST SPA,9147,VILLASIMIUS - NURRI STAZIONE,,3,http://www.arstspa.info/9147.pdf,0000FF,ffffff
+9148,ARST SPA,9148,MONSERRATO SAN GOTTARDO - CITTADELLA UNIVERSITARIA - POLICLINICO,,3,http://www.arstspa.info/9148.pdf,0000FF,ffffff
+9150,ARST SPA,9150,ISILI - MANDAS - VILLANOVAFRANCA - VILLAMAR,,3,http://www.arstspa.info/9150.pdf,0000FF,ffffff
+9200,ARST SPA,Linea A,URBANO MACOMER A SCALARBA - OSPEDALE,,3,http://www.arstspa.info/9200.pdf,FF0000,ffffff
+9201,ARST SPA,Linea B,URBANO MACOMER B CIRCOLARE DON MILANI - AUTOSTAZIONE - DON MILANI,,3,http://www.arstspa.info/9201.pdf,0033CC,ffffff
+9203,ARST SPA,9203,CORSE SOST. NUORO - MACOMER,,3,http://www.arstspa.info/9203.pdf,0000FF,ffffff
+9205,ARST SPA,9205,MACOMER - SUNI - TRESNURAGHES - BOSA,,3,http://www.arstspa.info/9205.pdf,0000FF,ffffff
+9207,ARST SPA,9207,CHILIVANI - BONO - ISCRA,,3,http://www.arstspa.info/9207.pdf,0000FF,ffffff
+9210,ARST SPA,9210,MACOMER - S.LUSSURGIU - SCAMO M.FERRO - CUGLIERI - SAGAMA - BOSA,,3,http://www.arstspa.info/9210.pdf,0000FF,ffffff
+9211,ARST SPA,9211,BOSA - BOSA M. - TURAS - S.MARIA DEL MARE - P.ALABE - TRESNUR. - MAGOMAD - TINNURA - SAGAMA,,3,http://www.arstspa.info/9211.pdf,0000FF,ffffff
+9212,ARST SPA,9212,BULTEI - BONO - BURGOS - ILLORAI - CANT.TIRSO - NUORO,,3,http://www.arstspa.info/9212.pdf,0000FF,ffffff
+9213,ARST SPA,9213,OZIERI - PATTADA - ALA' DEI SARDI - SAN TEODORO,,3,http://www.arstspa.info/9213.pdf,0000FF,ffffff
+9216,ARST SPA,9216,OZIERI - FRAIGAS - TULA - ERULA,,3,http://www.arstspa.info/9216.pdf,0000FF,ffffff
+9218,ARST SPA,9218,OZIERI - ARDARA,,3,http://www.arstspa.info/9218.pdf,0000FF,ffffff
+9220,ARST SPA,9220,CHILIVANI - OZIERI - BONO - ILLORAI - MACOMER,,3,http://www.arstspa.info/9220.pdf,0000FF,ffffff
+9221,ARST SPA,9221,MACOMER - BOLOTANA - OTTANA - OROTELLI - OROTELLI SCALO FDS,,3,http://www.arstspa.info/9221.pdf,0000FF,ffffff
+9223,ARST SPA,9223,BOSA MARINA - MACOMER - NUORO,,3,http://www.arstspa.info/9223.pdf,0000FF,ffffff
+9224,ARST SPA,9224,BONO - BURGOS - ESPORLATU - ILLORAI,,3,http://www.arstspa.info/9224.pdf,0000FF,ffffff
+9225,ARST SPA,9225,BOSA - BOSA MARINA - TURAS - CUGLIERI - SAGAMA - SUNI,,3,http://www.arstspa.info/9225.pdf,0000FF,ffffff
+9226,ARST SPA,9226,BOSA - MONTRESTA - SANTA MARIA,,3,http://www.arstspa.info/9226.pdf,0000FF,ffffff
+9227,ARST SPA,9227,BOSA SANTA CATERINA - BOSA MARINA - TURAS,,3,http://www.arstspa.info/9227.pdf,0000FF,ffffff
+9228,ARST SPA,9228,BOLOTANA - BOLOTANA SCALO FDS,,3,http://www.arstspa.info/9228.pdf,0000FF,ffffff
+9229,ARST SPA,9229,MACOMER - MULARGIA,,3,http://www.arstspa.info/9229.pdf,0000FF,ffffff
+9230,ARST SPA,9230,MACOMER - BORORE - NORAGUGUME - SEDILO,,3,http://www.arstspa.info/9230.pdf,0000FF,ffffff
+9310,ARST SPA,9310,SA MELA - ERULA - PERFUGAS - TEMPIO,,3,http://www.arstspa.info/9310.pdf,0000FF,ffffff
+9311,ARST SPA,9311,SASSARI - SENNORI - SORSO - CASTELSARDO - PERFUGAS,,3,http://www.arstspa.info/9311.pdf,0000FF,ffffff
+9312,ARST SPA,9312,SASSARI - OLMEDO - ALGHERO - VILLANOVA - MONTRESTA - BOSA,,3,http://www.arstspa.info/9312.pdf,0000FF,ffffff
+9313,ARST SPA,9313,PERC. A OSILO - SENNORI - SORSO - P.TORRES,,3,http://www.arstspa.info/9313.pdf,0000FF,ffffff
+9315,ARST SPA,9315,NULVI - PERFUGAS VIA SEDINI PERC C,,3,http://www.arstspa.info/9315.pdf,0000FF,ffffff
+9316,ARST SPA,9316,TEMPIO - AGLIENTU - VIGNOLA - S.TERESA DI GALLURA,,3,http://www.arstspa.info/9316.pdf,0000FF,ffffff
+9317,ARST SPA,9317,CASTELSARDO - SENNORI - SORSO - PORTOTORRES,,3,http://www.arstspa.info/9317.pdf,0000FF,ffffff
+9318,ARST SPA,9318,TEMPIO PAUSANIA - CALANGIANUS - S.ANTONIO - ARZACHENA - PALAU,,3,http://www.arstspa.info/9318.pdf,0000FF,ffffff
+9319,ARST SPA,9319,CALANGIANUS - TEMPIO P. - TRINITA' D'AGULTU - ISOLA ROSSA,,3,http://www.arstspa.info/9319.pdf,0000FF,ffffff
+9320,ARST SPA,9320,ALGHERO - ZIRRA - PORTO FERRO - VILLA ASSUNTA,,3,http://www.arstspa.info/9320.pdf,0000FF,ffffff
+9321,ARST SPA,9321,ALGHERO - PORTO CONTE - CAPO CACCIA,,3,http://www.arstspa.info/9321.pdf,0000FF,ffffff
+9322,ARST SPA,9322,ALGHERO - SAN MARCO Z.I.,,3,http://www.arstspa.info/9322.pdf,0000FF,ffffff
+9323,ARST SPA,9323,SASSARI - ALGHERO VIA FERTILIA,,3,http://www.arstspa.info/9323.pdf,0000FF,ffffff
+9324,ARST SPA,9324,ITTIRI - URI - ALGHERO,,3,http://www.arstspa.info/9324.pdf,0000FF,ffffff
+9325,ARST SPA,9325,ALGHERO - SA SEGADA - BV.SELLA&MOSCA - S.MARCO ZI - OLMEDO - RUDAS - ITTIRI,,3,http://www.arstspa.info/9325.pdf,0000FF,ffffff
+9326,ARST SPA,9326,TEMPIO - LUOGOSANTO - ARZACHENA - CANNIGIONE - LACONIA,,3,http://www.arstspa.info/9326.pdf,0000FF,ffffff
+9327,ARST SPA,9327,TEMPIO PAUSANIA - SASSARI PERCORSO DIRETTO,,3,http://www.arstspa.info/9327.pdf,0000FF,ffffff
+9328,ARST SPA,9328,TEMPIO - LUOGOSANTO - PALAU VIA MONTAGNA,,3,http://www.arstspa.info/9328.pdf,0000FF,ffffff
+9329,ARST SPA,9329,SASSARI - SAN GIACOMO - SORSO - SORSO MARINA,,3,http://www.arstspa.info/9329.pdf,0000FF,ffffff
+9330,ARST SPA,9330,TEMPIO - AGLIENTU - LUOGOSANTO - ARZACHENA,,3,http://www.arstspa.info/9330.pdf,0000FF,ffffff
+9332,ARST SPA,9332,SASSARI - SENNORI - SORSO - BV.CASTELSARDO - SORSO MARINA - 3^PETTINE,,3,http://www.arstspa.info/9332.pdf,0000FF,ffffff
+9333,ARST SPA,9333,ALGHERO - VALVERDE,,3,http://www.arstspa.info/9333.pdf,0000FF,ffffff
+9341,ARST SPA,9341,SASSARI - MACOMER - NUORO,,3,http://www.arstspa.info/9341.pdf,0000FF,ffffff
+9342,ARST SPA,9342,NUORO - CAGLIARI,,3,http://www.arstspa.info/9342.pdf,0000FF,ffffff
+9343,ARST SPA,9343,SASSARI - MACOMER - ORISTANO - CAGLIARI,,3,http://www.arstspa.info/9343.pdf,0000FF,ffffff
+9371,ARST SPA,Linea AF,URBANO ALGHERO OSPEDALE MARINO - FERTILIA A.F.,,3,http://www.arstspa.info/9371.pdf,FF0000,ffffff
+9372,ARST SPA,Linea AP,URBANO ALGHERO - LA PETRAIA - MARIA PIA A.P.,,3,http://www.arstspa.info/9372.pdf,0033CC,ffffff
+9373,ARST SPA,Linea ALFA,URBANO ALGHERO - FERTILIA - AEROPORTO AL.F.A.,,3,http://www.arstspa.info/9373.pdf,F78C3B,ffffff
+9374,ARST SPA,Linea AC,URBANO ALGHERO - CARMINE A.C.,,3,http://www.arstspa.info/9374.pdf,F30D85,ffffff
+9379,ARST SPA,Linea LV,URBANO ALGHERO - VERDE,,3,http://www.arstspa.info/9379.pdf,007A00,ffffff
+9380,ARST SPA,9380,CORSE SOST. SASSARI - ALGHERO,,3,http://www.arstspa.info/9380.pdf,0000FF,ffffff
+9382,ARST SPA,9382,CORSE SOSTITUTIVE SASSARI NULVI,,3,,,
+9381,ARST SPA,9381,NAVETTA ALGHERO SANT'AGOSTINO - ALGHERO PORTO E VIC.,,3,http://www.arstspa.info/9381.pdf,0000FF,ffffff
+TCA,ARST SPA,MONSERRATO-ISILI,MONSERRATO - MANDAS - ISILI ,,2,http://www.arstspa.info/TPL_CAI.pdf,00FFFF,000000
+TMA,ARST SPA,MACOMER-NUORO,MACOMER - NUORO,,2,http://www.arstspa.info/TPL_MC.pdf,00FFFF,000000
+MCA,ARST SPA,METROCA,METROCAGLIARI REPUBBLICA - POLICLINICO,,0,http://www.arstspa.info/M_CA.pdf,FF0000,ffffff
+MCA2,ARST SPA,METROCA,METROCAGLIARI SAN GOTTARDO - SETTIMO SAN PIETRO,,0,http://www.arstspa.info/M_CA.pdf,FF0000,ffffff
+MSS,ARST SPA,METROSS,METROSASSARI EMICICLO GARIBALDI - S.M. DI PISA,,0,http://www.arstspa.info/M_SS.pdf,FF0000,ffffff
+TSS1,ARST SPA,SASSARI-ALGHERO,SASSARI - ALGHERO,,2,http://www.arstspa.info/TPL_SS1.pdf,00FFFF,000000
+TSS2,ARST SPA,SASSARI-SORSO,SASSARI - SORSO,,2,http://www.arstspa.info/TPL_SS2.pdf,00FFFF,000000

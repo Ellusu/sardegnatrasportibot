@@ -1,0 +1,3 @@
+﻿agency_id,agency_name,agency_url,agency_timezone,agency_lang
+5,ASPO OLBIA,http://www.aspoolbia.it,Europe/Rome,IT
+3001,TRENITALIA,http://www.trenitalia.it,Europe/Rome,IT
